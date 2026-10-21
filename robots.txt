@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://fatshev9-art.github.io/lebeks-demo-p2hjy/sitemap.xml
